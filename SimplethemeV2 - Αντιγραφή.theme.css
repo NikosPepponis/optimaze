@@ -12,6 +12,7 @@ Table of Contents
                                         3.1.7 Κλιπ
         3.2 Ενίσχυση διακομιστή
             3.2.1 Συνδρομες
+                3.2.2 Απόθεμα δώρων
 
 
 
@@ -856,7 +857,6 @@ path[d="M15.5 1h-8C6.12 1 5 2.12 5 3.5v17C5 21.88 6.12 23 7.5 23h8c1.38 0 2.5-1.
     box-shadow: 1px 3px 10px 2px var(--background-secondary) inset,0px 0px 10px 3px var(--background-secondary)!important;
 }
 /* 3.2.1 Συνδρομες */
-
 .premiumSubscriptionAccountCredit__6bab4 {
     border-radius: 8px !important;
     padding: 8px 0;
@@ -866,6 +866,44 @@ path[d="M15.5 1h-8C6.12 1 5 2.12 5 3.5v17C5 21.88 6.12 23 7.5 23h8c1.38 0 2.5-1.
     border-bottom: 2.4px solid rgb(197, 116, 116);
     border-radius: 5px;
 }
+/* 3.2.2 Απόθεμα δώρων */
+[placeholder="WUMP-AAAAA-BBBBB-CCCCC"] {
+    background-color: black;
+    border: 1px solid rgba(255, 255, 255, 0.37) !important;
+}
+[class="skuCard_d4e35d promotionCard__8581c"] {
+    border-radius: 8px;
+    transition: 200ms;
+    background-color: var(--background-secondary-alt);
+    border-color: rgba(255, 255, 255, 0.11) !important;
+    border: 1px solid rgba(255, 255, 255, 0.11) !important;
+    box-shadow: 1px 3px 10px 2px var(--background-tertiary) inset,0px 0px 10px 3px var(--background-tertiary)!important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
