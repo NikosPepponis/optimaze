@@ -15,8 +15,9 @@ Table of Contents
                 3.2.2 Απόθεμα δώρων
                     3.2.3 Τιμολογηση
         3.3 Εμφανιση
-        3.3.1 Προσβασιμοτητα
-        3.3.2 Φωνή & Βίντεο
+            3.3.1 Προσβασιμοτητα
+                3.3.2 Φωνή & Βίντεο
+        3.4 Επικάλυψη (overlay) παιχνιδιού
 
 
 
@@ -979,13 +980,40 @@ path[d="M15.5 1h-8C6.12 1 5 2.12 5 3.5v17C5 21.88 6.12 23 7.5 23h8c1.38 0 2.5-1.
 .theme-dark .previewImage__91c1c {
     background-image: url(https://i.postimg.cc/DyFxFpm9/dslr-camera-logo-design-png-removebg-preview.png) !important;
 }
-
-
-
-
-
-
-
+/* 3.4 Επικάλυψη (overlay) παιχνιδιού */
+.wrapper__4beb8 {
+    border-radius: 15px !important;
+    background-color: var(--background-primary) !important;
+    border-color: rgba(255, 255, 255, 0.212) !important;
+    box-shadow: 1px 3px 10px 2px var(--background-tertiary)  inset,0px 0px 10px 3px var(--background-tertiary)!important;
+}
+.option_a0c054 {
+    width: 28%;
+    height: 28%;
+    margin: 23px;
+    border-radius: 23px;
+    opacity: .4;
+    background-color: var(--primary-400);
+    box-shadow: 1px 3px 10px 2px var(--background-tertiary)  inset,0px 0px 10px 3px var(--background-tertiary)!important;
+}
+.selected_ea51d6.option_a0c054{
+    background-color: rgb(28, 52, 96);
+    box-shadow: 1px 3px 10px 2px var(--background-tertiary)  inset,0px 0px 10px 3px var(--background-tertiary)!important;
+    transition: 200ms !important;
+}
+.option_a0c054:hover{
+    background-color: rgb(34, 73, 146);
+    box-shadow: 1px 3px 10px 2px var(--background-tertiary)  inset,0px 0px 10px 3px var(--background-tertiary)!important;
+    transition: 200ms !important;
+}
+.disabledIcon__405b7:hover{
+    color: rgb(173, 0, 0)!important;
+    transition: 200ms;
+}
+.disabledIcon__405b7{
+    color: rgb(205, 235, 235);
+    transition: 200ms;
+}
 
 
 
