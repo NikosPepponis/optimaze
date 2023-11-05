@@ -290,7 +290,11 @@ Table of Contents
     --user-profile-header-overflow-background: hsl(var(--primary-700-hsl)/0.5);
     --white: var(--white-500);
 }
-
+:root {
+    --green-360: green !important;
+    --primary-400: rgba(255, 255, 255, 0.623);
+    --red-400: rgb(146, 0, 0) !important;
+}
 /* 3. Settings */
 .accountProfileCard__22589 .avatar__6c108 {
     transform: translateX(-50%) scale(1.43);
