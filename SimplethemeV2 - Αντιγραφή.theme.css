@@ -13,6 +13,7 @@ Table of Contents
         3.2 Ενίσχυση διακομιστή
             3.2.1 Συνδρομες
                 3.2.2 Απόθεμα δώρων
+                    3.2.3 Τιμολογηση
 
 
 
@@ -879,10 +880,27 @@ path[d="M15.5 1h-8C6.12 1 5 2.12 5 3.5v17C5 21.88 6.12 23 7.5 23h8c1.38 0 2.5-1.
     border: 1px solid rgba(255, 255, 255, 0.11) !important;
     box-shadow: 1px 3px 10px 2px var(--background-tertiary) inset,0px 0px 10px 3px var(--background-tertiary)!important;
 }
-
-
-
-
+/* Τιμολογηση */
+[class="verticalFit_d9ac53 paginator_e620d3"]{
+    background-color: transparent !important;
+}
+[class="paymentPane__9cf01 verticalFit_d9ac53"]{
+    background: -webkit-linear-gradient( -54.5deg, rgba(0, 0, 0, 0.644) 45%, rgb(27, 41, 48) 65%);
+}
+.theme-dark .bottomDivider_a59d97{
+    background-color: transparent !important;
+    border-bottom: 1px solid yellow !important;
+    border-radius: 15px;
+}
+.theme-dark .expandedInfo__47bad{
+    background-color: var(--background-tertiary);
+    border-radius: 10px;
+    border: 1.83px dotted white;
+}
+[class="codeRedemptionRedirect_bc7f36 card__4dc22"]{
+    border-radius: 10px;
+    background-color: var(--background-tertiary) !important;
+}
 
 
 
