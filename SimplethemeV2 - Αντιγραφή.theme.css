@@ -722,6 +722,26 @@ Table of Contents
     border-radius: 8px;
     border: 1px solid rgb(208, 100, 0) !important;
 }
+.card__4dc22:not(.outline_cb0aed){
+    border: transparent !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*end*/
 [class="credentialList_f9417e"]{
     background-color: var(--background-secondary-alt) !important;
