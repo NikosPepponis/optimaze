@@ -5,6 +5,8 @@ Table of Contents
         3.1 My account ( ο λογαριασμος μου )
                3.1.1 Προφιλ
                     3.1.2 Απορρητο & Ασφαλεια 
+                    3.1.3 Εξουσιοδοτημένες εφαρμογές
+
 4 Fonts
         4.1 Display Font
         4.2 Text Font
@@ -765,4 +767,32 @@ Table of Contents
     border-color: rgba(255, 255, 255, 0.11) !important;
     border: 1px solid rgba(255, 255, 255, 0.11) !important;
     box-shadow: 1px 3px 10px 2px var(--background-tertiary)  inset,0px 0px 10px 3px var(--background-tertiary)!important;
+}
+/* 3.1.3 Εξουσιοδοτημένες εφαρμογές */
+.container__6968f,.container__9c82e,.container__9f90c {
+    background-color: #000;
+    border-radius: 15px;
+    border: 1.4px solid rgb(255, 255, 255);
+    width: 740px !important;
+}
+.row_c1b980{
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px rgb(0, 114, 114) inset;
+}
+.lookFilled__19298.colorBrand_b2253e {
+    border-radius: 10px;
+}
+.box__6431e {
+    padding: 24px;
+    background: #000;
+    border: 1.4px solid rgb(255, 255, 255);
+    border-radius: 12px;
+}
+.session_f56359{
+    background-color: black !important;
+    border-radius: 300px;
+    margin-bottom: 5px;
+    margin-top: 6px;
+    padding: 13px !important;
+    background: -webkit-linear-gradient(-74deg, #715ca154 36%, #004b5ec9 65%);
 }
