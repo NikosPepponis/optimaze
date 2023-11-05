@@ -11,30 +11,8 @@ Table of Contents
                                     3.1.6 Συνδεσεις
                                         3.1.7 Κλιπ
         3.2 Ενίσχυση διακομιστή
+            3.2.1 Συνδρομες
 
-4 Fonts
-        4.1 Display Font
-        4.2 Text Font
-        4.3 Names, Titles, and Headers Font
-5 Load/Disconnect + Crash 
-6 Scrollerbars
-7 Modals
-        7.1 General Modal
-        7.2 Server Create/Join Modal
-        7.3 Custom Status Modal
-        7.4 Quick Switcher Modal
-        7.5 Keyboard Combo Modal
-        7.6 Upload Modal
-        7.7 Profile Modal
-8 Popouts
-        8.1 General Popout
-        8.2 Pins Popout
-        8.3 Context Menu Popout
-        8.4 Inbox
-        8.5 Profile Popout
-9 Titlebar
-        9.1 General Titlebar
-        9.2 Mac OS Buttons
 
 
 /* 1. Imports */
@@ -877,8 +855,17 @@ path[d="M15.5 1h-8C6.12 1 5 2.12 5 3.5v17C5 21.88 6.12 23 7.5 23h8c1.38 0 2.5-1.
     border-color: rgba(255, 255, 255, 0.11) !important;
     box-shadow: 1px 3px 10px 2px var(--background-secondary) inset,0px 0px 10px 3px var(--background-secondary)!important;
 }
+/* 3.2.1 Συνδρομες */
 
-
+.premiumSubscriptionAccountCredit__6bab4 {
+    border-radius: 8px !important;
+    padding: 8px 0;
+    background-color: var(--background-tertiary);
+}
+.theme-dark .sectionAccountCredit__8ffc1, .theme-dark .subscriptionDetails_f73fb4 {
+    border-bottom: 2.4px solid rgb(197, 116, 116);
+    border-radius: 5px;
+}
 
 
 
