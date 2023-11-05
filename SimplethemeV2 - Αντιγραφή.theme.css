@@ -591,9 +591,7 @@ Table of Contents
 .text-md-normal__6a4eb,.text-md-normal__4afad{
     font-family: 'Playpen Sans', cursive !important;
 }
-.labelDescriptor__6432e, .description__7af71{
-    display: none;
-}
+
 .divider_a2339a{
     background: rgb(185, 185, 185);
     height: 2px !important;
@@ -748,15 +746,8 @@ Table of Contents
     border: 1.4px solid rgb(255, 255, 255);
     border-radius: 12px;
 }
-.session_f56359{
-    background-color: black !important;
-    border-radius: 300px;
-    margin-bottom: 5px;
-    margin-top: 6px;
-    padding: 13px !important;
-    background: -webkit-linear-gradient(-74deg, #715ca154 36%, #004b5ec9 65%);
-}
 
+/* 3.1.4 Εξουσιοδοτημένες εφαρμογές */
 
 
 
@@ -796,4 +787,7 @@ Table of Contents
     border-color: rgba(255, 255, 255, 0.11) !important;
     border: 1px solid rgba(255, 255, 255, 0.11) !important;
     box-shadow: 1px 3px 10px 2px var(--background-tertiary)  inset,0px 0px 10px 3px var(--background-tertiary)!important;
+}
+.labelDescriptor__6432e, .description__7af71{
+    display: none;
 }
