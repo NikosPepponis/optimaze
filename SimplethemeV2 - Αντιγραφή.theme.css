@@ -14,6 +14,7 @@ Table of Contents
             3.2.1 Συνδρομες
                 3.2.2 Απόθεμα δώρων
                     3.2.3 Τιμολογηση
+                        3.2.4 Εμφανιση
 
 
 
@@ -880,7 +881,7 @@ path[d="M15.5 1h-8C6.12 1 5 2.12 5 3.5v17C5 21.88 6.12 23 7.5 23h8c1.38 0 2.5-1.
     border: 1px solid rgba(255, 255, 255, 0.11) !important;
     box-shadow: 1px 3px 10px 2px var(--background-tertiary) inset,0px 0px 10px 3px var(--background-tertiary)!important;
 }
-/* Τιμολογηση */
+/* 3.2.3 Τιμολογηση */
 [class="verticalFit_d9ac53 paginator_e620d3"]{
     background-color: transparent !important;
 }
@@ -901,8 +902,13 @@ path[d="M15.5 1h-8C6.12 1 5 2.12 5 3.5v17C5 21.88 6.12 23 7.5 23h8c1.38 0 2.5-1.
     border-radius: 10px;
     background-color: var(--background-tertiary) !important;
 }
-
-
+/* 3.2.4 Εμφανιση */
+.barFill__30e17:not(.markDash_dc3ae9) {
+    background: blue;
+}
+.grabber_d2868c {
+    border-radius: 5px;
+}
 
 
 
