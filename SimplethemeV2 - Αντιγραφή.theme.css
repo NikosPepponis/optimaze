@@ -15,6 +15,7 @@ Table of Contents
                 3.2.2 Απόθεμα δώρων
                     3.2.3 Τιμολογηση
                         3.2.4 Εμφανιση
+                            3.2.5 Προσβασιμοτητα
 
 
 
@@ -909,8 +910,17 @@ path[d="M15.5 1h-8C6.12 1 5 2.12 5 3.5v17C5 21.88 6.12 23 7.5 23h8c1.38 0 2.5-1.
 .grabber_d2868c {
     border-radius: 5px;
 }
-
-
+/* 3.2.5 Προσβασιμοτητα */
+[class="checkbox_c7f690 box__66058 checked__24ad6"]{
+    background-color: rgba(0, 0, 255, 0.397) !important;
+    box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.568) inset;
+    border-color: rgba(1, 0, 7, 0.432) !important;
+}
+[class="button_afdfd9 lookFilled__19298 colorBrandNew_fd170a sizeMedium_c6fa98 grow__4c8a4"]{
+    background-color: rgb(0, 0, 170) !important;
+    box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.89) inset;
+    border-radius: 10px;
+}
 
 
 
