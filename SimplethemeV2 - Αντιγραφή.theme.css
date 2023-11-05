@@ -293,6 +293,10 @@ Table of Contents
     --user-profile-header-overflow-background: hsl(var(--primary-700-hsl)/0.5);
     --white: var(--white-500);
 }
+/* Folders Size */
+:root {
+    --server-size: 45px; /* Size of the server icons */
+  }
 /* 3. Settings */
 .accountProfileCard__22589 .avatar__6c108 {
     transform: translateX(-50%) scale(1.43);
