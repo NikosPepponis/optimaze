@@ -10,7 +10,7 @@ Table of Contents
                                 3.1.5 Συσκευες
                                     3.1.6 Συνδεσεις
                                         3.1.7 Κλιπ
-                                            3.1.8 Αιτήματα φιλίας
+        3.2 Ενίσχυση διακομιστή
 
 4 Fonts
         4.1 Display Font
@@ -863,7 +863,7 @@ path[d="M15.5 1h-8C6.12 1 5 2.12 5 3.5v17C5 21.88 6.12 23 7.5 23h8c1.38 0 2.5-1.
     border-color: rgba(255, 255, 255, 0.11) !important;
     box-shadow: 1px 3px 10px 2px var(--background-tertiary)  inset,0px 0px 10px 3px var(--background-tertiary)!important;
 }
-/* 3.1.8 Αιτήματα φιλίας */
+/* 3.2 Ενίσχυση διακομιστή */
 .lookFilled__19298.colorPrimary__6ed40{
     border-radius: 10px !important;
     transition: 150ms !important;
