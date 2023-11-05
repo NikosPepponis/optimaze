@@ -35,6 +35,12 @@ Table of Contents
 @import "https://nyri4.github.io/Discolored/main.css";
 
 /* 2. Discord Values recolor*/
+:root {
+    --green-360: green !important;
+    --primary-400: rgba(255, 255, 255, 0.623);
+    --red-400: rgb(146, 0, 0) !important;
+    --main-color: #2780e6;
+}
 .theme-dark:not(.userProfileOuter__46bb7) {
     --guild-header-text-shadow: 0 1px 1px hsl(var(--black-500-hsl)/0.4);
     --elevation-stroke: 0 0 0 1px hsl(var(--primary-900-hsl)/0.15);
@@ -289,11 +295,6 @@ Table of Contents
     --textbox-markdown-syntax: var(--primary-360);
     --user-profile-header-overflow-background: hsl(var(--primary-700-hsl)/0.5);
     --white: var(--white-500);
-}
-:root {
-    --green-360: green !important;
-    --primary-400: rgba(255, 255, 255, 0.623);
-    --red-400: rgb(146, 0, 0) !important;
 }
 /* 3. Settings */
 .accountProfileCard__22589 .avatar__6c108 {
