@@ -1634,3 +1634,8 @@ rect[mask="url(#svg-mask-status-streaming)"],
 rect[fill="#34008f"] {
     fill: var(--status-streaming-color);
 }
+.menu_dc52c6 {
+    background: black !important;
+    border-radius: 4px;
+    border-radius: 15px;
+}
