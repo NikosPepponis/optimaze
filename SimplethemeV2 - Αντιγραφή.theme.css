@@ -1743,12 +1743,12 @@ a>.iconWrapper_af9215[aria-label="Help"] {
     background-color: transparent !important;
 }
 .gifTag__9db5a {
-    background-image: url(https://i.postimg.cc/59vpSQZw/gif-21.gif);
-    width: 32px;
-    height: 32px;
-    transform: scale(1.1);
-    margin-top: 0px;
-    margin-right: -10px;
+    background-image: url(https://i.postimg.cc/SNtv9QjX/ezgif-com-resize.gif);
+    width: 102px;
+    height: 102px;
+    transform: scale(1);
+    margin-top: -17px;
+    margin-right: 100px;
 }
 .role__88585 {
     background: rgba(0,0,0,0);
@@ -1811,8 +1811,15 @@ a>.iconWrapper_af9215[aria-label="Help"] {
     border-color: rgba(255, 255, 255, 0) !important;
     border: 0px solid white !important;
 }
-
-
+.embedFull__8dc21 {
+    border-left: 3px solid var(--background-tertiary);
+    background: black;
+    border-radius: 10px;
+}
+.botTagRegular_c89c9a {
+    background: var(--brand-experiment);
+    color: var(--white-500);
+}
 
 
 
