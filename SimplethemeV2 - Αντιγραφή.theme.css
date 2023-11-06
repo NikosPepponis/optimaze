@@ -1820,7 +1820,15 @@ a>.iconWrapper_af9215[aria-label="Help"] {
     background: var(--brand-experiment);
     color: var(--white-500);
 }
-
+.wrapper_c727b6{
+    background-color: #000;
+    border-radius: 15px;
+}
+.markup_a7e664 .inline{
+    background-color: white !important;
+    color: black;
+    font-weight: 800 !important;
+}
 
 
 
