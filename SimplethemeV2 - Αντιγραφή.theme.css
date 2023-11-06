@@ -1912,7 +1912,6 @@ a>.iconWrapper_af9215[aria-label="Help"] {
 :root {
   --main-color: #2780e6;
 }
-
 .member_aa4760 .layout_bb8e67{position:relative;background:rgba(0,0,0,0);transition:all .35s ease-in-out,transform .1s ease-in-out;z-index:1}
 .members__9f47b .member_aa4760 .layout_bb8e67:active{transform:scale(0.9)}.members__9f47b .member_aa4760 .username__11d8c>span{max-width:100%;overflow:visible;transition:all .35s ease-in-out}
 .members__9f47b .member_aa4760 .username__11d8c>span:after{content:"";position:absolute;top:0;right:100%;bottom:0;left:0;background:linear-gradient(to right, var(--main-color) 90%, transparent);border-radius:3px;opacity:.8;transition:all .5s ease-in-out;z-index:-1;pointer-events:none}
