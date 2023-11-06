@@ -1514,6 +1514,33 @@ a>.iconWrapper_af9215[aria-label="Βοήθεια"] {
 .container__11d72 .iconWrapper_af9215[aria-label="Inbox"],
 a>.iconWrapper_af9215[aria-label="Help"] {
     display: none !important;}
+.searchBar_e4ea2a .searchBarComponent__22760 {
+    width: 80%;
+    height: 28px;
+    overflow: hidden;
+    border-radius: 8px;
+    background-color: black;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    color: transparent;
+    text-align: left;
+    text-overflow: ellipsis;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    white-space: nowrap;
+    margin-left: 20px;
+}
+.searchBar_e4ea2a .searchBarComponent__22760::before {
+    content: "🔍〢𝓢𝓮𝓪𝓻𝓬𝓱";
+    color: yellow;
+}
+.inner__178b2 {
+    background-color: black;
+}
+.input_f4043f {
+    color: yellow;
+}
 /* 4.1.2 DM */
 
 
