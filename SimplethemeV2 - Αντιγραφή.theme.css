@@ -24,6 +24,8 @@ Table of Contents
 4 Μενου Discord
         4.1 Λιστα φιλων
         4.1.1 DM
+5 Server menu
+        5.1 Server channel 
 */
 
 
@@ -1745,8 +1747,29 @@ a>.iconWrapper_af9215[aria-label="Help"] {
     color:rgb(255, 255, 255);
     font-weight: 700;
 }
-
-
+/* 5.1 Server channel */
+.emptyChannelIcon__1a1ba.locked_e10853 {
+    background-image: url(https://i.postimg.cc/s2Pc9zHg/ezgif-com-crop.gif) !important;
+    transform: scale(1.065) translateX(10px) translateY(-15px);
+    width: 350px;
+    height: 260px;
+    background-color: transparent !important;
+}
+.emptyChannelIcon__1a1ba {
+    background-image: url(https://i.postimg.cc/s2Pc9zHg/ezgif-com-crop.gif) !important;
+    transform: scale(1.065) translateX(10px) translateY(-15px);
+    width: 350px;
+    height: 260px;
+    background-color: transparent !important;
+}
+.gifTag__9db5a {
+    background-image: url(https://i.postimg.cc/59vpSQZw/gif-21.gif);
+    width: 32px;
+    height: 32px;
+    transform: scale(1.1);
+    margin-top: 0px;
+    margin-right: -10px;
+}
 
 
 
