@@ -1770,7 +1770,19 @@ a>.iconWrapper_af9215[aria-label="Help"] {
     margin-top: 0px;
     margin-right: -10px;
 }
-
+.role__88585 {
+    background: rgba(0,0,0,0);
+}
+.role__88585 .roleColor_dc66b5 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    right: -1px;
+    border-radius: 3px;
+    z-index: -1;
+    opacity: .2;
+}
 
 
 
