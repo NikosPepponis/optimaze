@@ -1198,6 +1198,10 @@ path[d="M15.5 1h-8C6.12 1 5 2.12 5 3.5v17C5 21.88 6.12 23 7.5 23h8c1.38 0 2.5-1.
 }
                                     /* 4 Μενου Discord */
 /* 4.1 Λιστα φιλων */
+.accountProfilePopoutWrapper_af829a {
+    left: 59px !important;
+    top: 62.5px;
+}
 .guilds__2b93a {
     margin-bottom: 227px;
     box-sizing: border-box;
