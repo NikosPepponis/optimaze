@@ -27,7 +27,27 @@ Table of Contents
 */
 
 
-
+/**
+*!-------------> Icons color <-------------!
+*/
+.wrapper__7bcde {
+    --fluent-icons-color: cyan;
+}
+.wrapper__7bcde.modeMuted__0aeea {
+    --fluent-icons-color: rgb(192, 0, 0);
+}
+.wrapper__7bcde.modeUnread_f74c03 {
+    --fluent-icons-color: rgb(0, 119, 255);
+}
+.link__95dc0 path {
+    display: none;
+}
+.link__95dc0 svg {
+    background: var(--fluent-icons-color);
+}
+.strikethrough__29b20 {
+    color: #c50000;
+}
 
 /* 1. Imports */
 @import url(https://nikospepponis.github.io/links/den-xero-ti-kanoyn.theme.css);
@@ -1715,7 +1735,16 @@ a>.iconWrapper_af9215[aria-label="Help"] {
     box-shadow: inset 0 0 10px 0px rgb(0, 0, 0) !important;
     transition: 0.150s;
 }
-
+.newMessagesBar__8b6d7 {
+    height: 32px;
+    top: 0;
+    border-radius: 0 0 12px 12px;
+    background-image: -webkit-linear-gradient(-84deg, #193546d5 26%, #00b972d3 79%);
+}
+.barButtonMain__0f5c6, .span_a7874a{
+    color:rgb(255, 255, 255);
+    font-weight: 700;
+}
 
 
 
