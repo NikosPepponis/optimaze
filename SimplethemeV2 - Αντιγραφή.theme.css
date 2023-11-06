@@ -1582,6 +1582,111 @@ a>.iconWrapper_af9215[aria-label="Help"] {
 .bannerSVGWrapper__3e7b0 foreignObject {
     mask: none;
 }
+.wrapper_efe67f {
+    max-width: 632px;
+    min-width:260px;
+    width: 100%;
+    border-radius: 8px;
+    transition: 200ms;
+    background-color: var(--background-secondary);
+    border-color: rgba(255, 255, 255, 0.11) !important;
+    box-shadow: 1px 3px 5px 3px var(--background-tertiary)  inset,0px 0px 6px 2px var(--background-tertiary)!important;
+}
+.lookFilled__19298.colorGreen__5f181{
+    border-radius: 10px !important;
+    box-shadow: 1px 1px 5px 2px var(--background-tertiary)  inset!important;
+}
+.inviteSplash_f4eb93 {
+    position: relative;
+    background-color: var(--background-modifier-accent);
+    border-radius: 8px 8px 0 0;
+    height: 164px;
+}
+.header_aea860{
+    color: yellow !important;
+    font-family: 'Merienda', cursive;
+    font-size: 10px;
+}
+.channelName_caf2ed,.channelIcon__3b121{
+    color: rgb(255, 196, 0) !important;
+    font-family: 'Merienda', cursive !important;
+    font-size: 11px;
+}
+.iconActiveLarge__8985a{
+    border-radius: 16px;
+}
+.guildName__060cb{
+    color: rgb(219, 204, 0);
+}
+.inviteDestinationExpired__6cda2{
+    color: rgb(195, 0, 0);
+    font-family: 'Merienda', cursive;
+}
+.guildDetail__0b882{
+    color: rgb(255, 196, 0) !important;
+    font-family: 'Merienda', cursive;
+    font-size: 11px;
+}
+.theme-dark .guildIconExpired__1d51f {
+    background-image: url(https://i.postimg.cc/XvwsmW2t/custom-rubber-stamp-12869-expired.gif);
+    transform: scale(2) translate(7px, 0px);
+    background-color: transparent;
+}
+.theme-dark .artworkSpotifySessionEnded__8272a {
+    background-image: url(https://i.postimg.cc/qMGhbvH9/ezgif.gif);
+    background-color: transparent !important;
+    transform: scale(1.2) translate(-8px, -6px) !important;
+}
+.artwork__34afd {
+    width: 150px !important;
+}
+.theme-dark .partyStatus__6a567, .theme-dark .name_b50cd9{
+    color: rgb(255, 255, 255) !important;
+    font-family: 'Merienda', cursive;
+    font-size: 13px;
+}
+.theme-dark .header__8b673{
+    color: yellow !important;
+    font-family: 'Playpen Sans', cursive !important;
+    font-size: 11px;
+}
+.zalgo__39311.cozy_f5c119 .header__39b23{
+    font-family: 'Playpen Sans', cursive !important;
+    font-size: 11px;
+}
+.content__72fdc{
+    font-family: 'Playpen Sans', cursive !important;
+}
+.content__72fdc a{
+    color: white !important;
+    font-family: 'Merienda', cursive;
+}
+.markup_a7e664 a{
+    font-family: 'Merienda', cursive;
+    color: cyan;
+    font-size: 16.5px;
+}
+.interactive__776ee:hover, .interactive__776ee:focus-within{
+    border-radius: 50px;
+    transition: 200ms !important;
+    background-color: var(--background-primary) !important;
+    box-shadow: 3px 3px 20px 10px var(--background-tertiary)  inset!important;
+    border: 0.1mm solid rgb(255, 255, 255) !important;
+}
+.interactive_a868bc{
+    border-radius: 50px;
+    border: 0.1mm solid rgba(255, 255, 255, 0) !important;
+}
+.imageWrapper_fd6587{
+    border-radius: 20px !important;
+}
+.markup_a7e664 code {
+    font-size: .945rem;
+    line-height: 1.025rem;
+    background: var(--background-secondary);
+    border: 1.3px solid var(--background-tertiary);
+    border-radius: 7px;
+}
 
 
 
@@ -1754,4 +1859,31 @@ rect[fill="#34008f"] {
 }
 :root {
     --server-size: 45px !important;  /* Size of the server icons */
-  }
+}
+/* empty welcome channel */
+.header__4080b{
+    font-family: 'Merienda', cursive;
+    color: rgb(226, 176, 156);
+    font-weight: 400;
+}
+.text-md-normal__6a4eb,.text-md-normal__4afad{
+    font-family: 'Playpen Sans', cursive !important;
+}
+.description__57d03{
+    font-family: 'Playpen Sans', cursive;
+    color: rgba(255, 255, 255, 0.466);
+}
+.button_fb39e8 {
+    color: rgb(113, 166, 183);
+    margin-right: 8px;
+    padding: 6px;
+    border-radius: 7px;
+    border-bottom: 2px solid transparent;
+    background-color: transparent;
+    transition: 150ms
+}
+.button_fb39e8:hover{
+    border-bottom: 2px solid;
+    background-color: transparent;
+    transition: 150ms;
+}
