@@ -1752,3 +1752,6 @@ rect[fill="#34008f"] {
     border-radius: 10px;
     background-color: black !important;
 }
+:root {
+    --server-size: 45px !important;  /* Size of the server icons */
+  }
