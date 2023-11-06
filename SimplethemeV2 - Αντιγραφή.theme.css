@@ -1244,6 +1244,20 @@ path[d="M15.5 1h-8C6.12 1 5 2.12 5 3.5v17C5 21.88 6.12 23 7.5 23h8c1.38 0 2.5-1.
   width: 48px !important;
   height: 48px !important;
 }
+.container_ca50b9 .avatarWrapper_ba5175 .svg_f5b652 .avatar__991e2 {
+    border-radius: 8px !important;
+    transition: .2s !important;
+}
+.container_ca50b9 .avatarWrapper_ba5175:hover .svg_f5b652 .avatar__991e2 {
+    border-radius: 8px !important;
+    transition: .2s !important;
+}
+.container_ca50b9 .avatarWrapper_ba5175:hover,
+.container_ca50b9 .avatarWrapper_ba5175[aria-expanded="true"],
+.container_ca50b9 .flex_f5fbb7 > .button__4f306:hover {
+    background: var(--brand-500);
+    border-radius: 16px;
+}
 .container_ca50b9 .svg_f5b652 {
   width: 60px !important;
   height: 60px !important;
