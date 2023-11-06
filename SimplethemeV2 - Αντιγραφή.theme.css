@@ -1195,7 +1195,6 @@ path[d="M15.5 1h-8C6.12 1 5 2.12 5 3.5v17C5 21.88 6.12 23 7.5 23h8c1.38 0 2.5-1.
 }
                                     /* 4 Μενου Discord */
 /* 4.1 Λιστα φιλων */
-/****USER REDISIGN****/
 .guilds__2b93a {
     margin-bottom: 227px;
     box-sizing: border-box;
@@ -1240,7 +1239,6 @@ path[d="M15.5 1h-8C6.12 1 5 2.12 5 3.5v17C5 21.88 6.12 23 7.5 23h8c1.38 0 2.5-1.
 .container_ca50b9 .avatarWrapper_ba5175 .nameTag__0e320 {
   display: none;
 }
-/* avatar location */
 .container_ca50b9 .avatarWrapper_ba5175 .avatar_f8541f {
   width: 48px !important;
   height: 48px !important;
@@ -1252,7 +1250,6 @@ path[d="M15.5 1h-8C6.12 1 5 2.12 5 3.5v17C5 21.88 6.12 23 7.5 23h8c1.38 0 2.5-1.
 .container_ca50b9 .svg_f5b652 > :is(svg,.pointerEvents__33f6a) {
   display: none;
 }
-
 .container_ca50b9 .svg_f5b652,
 .container_ca50b9 .svg_f5b652 > foreignObject {
   mask: none !important;
@@ -1288,11 +1285,9 @@ path[d="M15.5 1h-8C6.12 1 5 2.12 5 3.5v17C5 21.88 6.12 23 7.5 23h8c1.38 0 2.5-1.
 .theme-dark .panel_bd8c76{
     border-radius: 20px 20px 0px 0px !important;
 }
-/* vgazei to mprostino background */
 .container_d667ff{
     background: transparent !important;
 }
-/* END */
 .button-Jt-tIg{
     background-color: #000000 !important;
     border-radius: 6px !important;
@@ -1493,6 +1488,127 @@ a>.iconWrapper_af9215[aria-label="Help"] {
 .rtcConnectionQualityFine__471b6 .pingForeground_ac78df {
     color: green;
 }
+.searchBar_ff8800 {
+    border-radius: 10px;
+    background-color: black !important;
+}
+.tabBar__73938 .addFriend__80542.addFriend__80542.addFriend__80542 {
+    background-color: rgb(0, 73, 0) !important;
+    color: white !important;
+    border-radius: 11px !important;
+}
+.divider_c09b64 {
+    background-color: rgb(145, 0, 0);
+    filter: blur(3px) !important;
+}
+.icon__88ea8{
+    display: none !important;
+}
+.container__11d72 .iconWrapper_af9215[aria-label="Νήματα"],
+.container__11d72 .iconWrapper_af9215[aria-label="Ρυθμίσεις ειδοποιήσεων"],
+.container__11d72 .iconWrapper_af9215[aria-label="Εισερχόμενα"],
+a>.iconWrapper_af9215[aria-label="Βοήθεια"] {
+    display: none !important;}
+.container__11d72 .iconWrapper_af9215[aria-label="Channel header"],
+.container__11d72 .iconWrapper_af9215[aria-label="Notification Settings"],
+.container__11d72 .iconWrapper_af9215[aria-label="Inbox"],
+a>.iconWrapper_af9215[aria-label="Help"] {
+    display: none !important;}
+.closeButton__34341 {
+    color: rgb(153, 0, 0);
+}
+/* 4.1.2 DM */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*all in one*/
+[class="credentialList_f9417e"]{
+    background-color: var(--background-secondary-alt) !important;
+    border-color: rgba(255, 255, 255, 0.11) !important;
+    box-shadow: 1px 3px 10px 2px var(--background-secondary-alt)  inset,0px 0px 10px 0px var(--background-secondary-alt)!important;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.lookFilled__19298.colorBrand_b2253e{
+    border-radius: 8px;
+    transition: 200ms;
+    background-color: var(--background-primary);
+    border-color: rgba(255, 255, 255, 0.11) !important;
+    box-shadow: 1px 3px 10px 2px var(--background-tertiary)  inset,0px 0px 10px 3px var(--background-tertiary)!important;
+    border: 1px solid rgba(255, 255, 255, 0.13) !important;
+}
+[class="inputDefault__80165 input_d266e7"]{
+    border-radius: 8px;
+    transition: 200ms;
+    background-color: var(--background-secondary-alt) !important;
+    border-color: rgba(255, 255, 255, 0.11) !important;
+    border: 1px solid rgba(255, 255, 255, 0.11) !important;
+    box-shadow: 1px 3px 10px 2px var(--background-tertiary)  inset,0px 0px 10px 3px var(--background-tertiary)!important;
+}
+.labelDescriptor__6432e, .description__7af71{
+    display: none;
+}
+.theme-dark .placeholder_e68c63 {
+    visibility: hidden !important;
+}
+.theme-dark .placeholder_e68c63::before {
+    content: "Life is so much easier when you just take a time to chill";
+    color: rgba(255, 255, 255, 0.2);
+    font-family: "Poppins";
+    font-size: 13px;
+    visibility: visible !important;
+    text-decoration: underline;
+}
+.button-Jt-tIg{
+    background-color: #000000 !important;
+    border-radius: 6px !important;
+}
+.button-Jt-tIg:hover{
+    background-color: #313131 !important;
+    border-radius: 6px !important;
+    color: #00f7ff !important;
+}
 :root.theme-dark {
     --status-online-color: green !important;
     --status-dnd-color: #b30003 !important;
@@ -1531,76 +1647,3 @@ rect[mask="url(#svg-mask-status-streaming)"],
 rect[fill="#34008f"] {
     fill: var(--status-streaming-color);
 }
-/* 4.1.2 Λιστα φιλων */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*end*/
-[class="credentialList_f9417e"]{
-    background-color: var(--background-secondary-alt) !important;
-    border-color: rgba(255, 255, 255, 0.11) !important;
-    box-shadow: 1px 3px 10px 2px var(--background-secondary-alt)  inset,0px 0px 10px 0px var(--background-secondary-alt)!important;
-    border: 1px solid;
-    border-radius: 10px;
-}
-.lookFilled__19298.colorBrand_b2253e{
-    border-radius: 8px;
-    transition: 200ms;
-    background-color: var(--background-primary);
-    border-color: rgba(255, 255, 255, 0.11) !important;
-    box-shadow: 1px 3px 10px 2px var(--background-tertiary)  inset,0px 0px 10px 3px var(--background-tertiary)!important;
-    border: 1px solid rgba(255, 255, 255, 0.13) !important;
-}
-[class="inputDefault__80165 input_d266e7"]{
-    border-radius: 8px;
-    transition: 200ms;
-    background-color: var(--background-secondary-alt) !important;
-    border-color: rgba(255, 255, 255, 0.11) !important;
-    border: 1px solid rgba(255, 255, 255, 0.11) !important;
-    box-shadow: 1px 3px 10px 2px var(--background-tertiary)  inset,0px 0px 10px 3px var(--background-tertiary)!important;
-}
-.labelDescriptor__6432e, .description__7af71{
-    display: none;
-}
-/* 4.1.1 DM */
