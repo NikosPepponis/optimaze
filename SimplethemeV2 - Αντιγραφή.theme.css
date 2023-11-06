@@ -1829,7 +1829,11 @@ a>.iconWrapper_af9215[aria-label="Help"] {
     color: black;
     font-weight: 800 !important;
 }
-
+.embedFull__8dc21 {
+    border-left: 3px solid var(--background-tertiary);
+    background: black;
+    border-radius: 10px;
+}
 
 
 
