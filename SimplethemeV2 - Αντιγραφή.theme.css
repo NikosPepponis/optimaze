@@ -1946,3 +1946,21 @@ rect[fill="#34008f"] {
     background-color: transparent;
     transition: 150ms;
 }
+.root__3eef0 {
+    background-image: url(https://i.postimg.cc/766Bv56f/cf526ca….jpg) !important;
+}
+.colorable_c84c4c.green__7e4a1, .colorable_c84c4c.green__7e4a1 {
+    background: rgb(0, 189, 0);
+    box-shadow: inset 0 0 10px 0px rgb(0, 34, 0) !important;
+    transition: 0.150s;
+}
+.colorable_c84c4c.green__7e4a1.active_ff29dc, .colorable_c84c4c.green__7e4a1:hover{
+    background-color: rgb(0, 189, 0) !important;
+    box-shadow: inset 0 0 10px 0px rgb(0, 0, 0) !important;
+    transition: 0.150s;
+}
+.colorable_c84c4c.red_a51ba8.active_ff29dc, .colorable_c84c4c.red_a51ba8 {
+    background-color: rgb(207, 0, 0);
+    box-shadow: inset 0 0 10px 2px rgb(156 0 0) !important;
+    transition: 0.150s;
+}
