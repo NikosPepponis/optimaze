@@ -1415,7 +1415,7 @@ a>.iconWrapper_af9215[aria-label="Βοήθεια"] {
 .container__11d72 .iconWrapper_af9215[aria-label="Inbox"],
 a>.iconWrapper_af9215[aria-label="Help"] {
     display: none;}
-.iconWrapper_af9215[aria-label="Εμφάνιση προφίλ χρήστη"]{
+.iconWrapper_af9215[aria-label="Εμφάνιση προφίλ χρήστη"],[aria-label="Έναρξη βιντεοκλήσης"]{
         display: none;
 }
 .button__66e8c.buttonColor_a6eb73.buttonActive__407a7, .button__66e8c .buttonColor_a6eb73.buttonActive__407a7 {
