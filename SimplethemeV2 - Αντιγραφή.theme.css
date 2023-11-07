@@ -2042,7 +2042,9 @@ a>.iconWrapper_af9215[aria-label="Help"] {
 .footer_a3029c{
     height: 15px !important;
 } 
-
+.container_b2ce9c {
+    box-shadow: 0px 0px 10px -2px black inset !important;
+}
 
 
 
