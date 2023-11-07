@@ -23,10 +23,11 @@ Table of Contents
                                                                                         3.5.1 Ρυθμισεις
 4 Μενου Discord
         4.1 Λιστα φιλων
-        4.1.1 DM
+        4.1.2 DM
+        4.1.3 DM Voice
 5 Server menu
         5.1 Server channel 
-            5.1.2 Server Voice
+        5.1.2 Server Voice
 */
 
 
@@ -1467,6 +1468,11 @@ a>.iconWrapper_af9215[aria-label="Help"] {
     color:rgb(255, 255, 255);
     font-weight: 700;
 }
+/* 4.1.3 DM Voice */
+.colorable_c84c4c.primaryDark__6b700{
+    box-shadow:inset 0 0 10px 1px rgba(255, 211, 211, 0.514), 0 0 10px -2px rgba(255, 211, 211, 0.514) !important;
+}
+
 /* 5.1 Server channel */
 .emptyChannelIcon__1a1ba.locked_e10853 {
     background-image: url(https://i.postimg.cc/s2Pc9zHg/ezgif-com-crop.gif) !important;
