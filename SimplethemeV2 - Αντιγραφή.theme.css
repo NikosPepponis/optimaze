@@ -26,6 +26,7 @@ Table of Contents
         4.1.1 DM
 5 Server menu
         5.1 Server channel 
+            5.1.2 Server Voice
 */
 
 
@@ -1958,8 +1959,8 @@ a>.iconWrapper_af9215[aria-label="Help"] {
     opacity: .2;
 }
 .root_a28985 {
-    background-color: var(--background-secondary) !important;
-    border-color: transparent !important;
+    background-color: var(--background-secondary);
+    border-color: transparent;
 }
 .userProfileOuterUnthemed__48723 {
     box-shadow: 0 0 0 4px lavender; /* Choose outline color of choice because that's how the nitro profiles look like */
@@ -2050,6 +2051,10 @@ a>.iconWrapper_af9215[aria-label="Help"] {
 }
 .colorBrand__471df {
     color: rgb(0, 150, 150);
+}
+/* 5.1.2 Server Voice */
+[class="defaultColor__77578 text-xs-medium__30cbe statusText_e0f90b"]{
+    font-size: 0 !important;
 }
 
 
