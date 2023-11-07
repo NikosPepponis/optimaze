@@ -682,11 +682,16 @@ Table of Contents
     margin-top: -2px;
     margin-left: -4px;
 }
-.container__871ba.checked__6bdb0 .slider__41d94 {
-    margin-left: 3.5px;
-}
 .container__871ba.checked__6bdb0 .slider__41d94 > svg > path, .container__871ba.checked__6bdb0 .slider__41d94 > rect {
     fill: white !important;
+}
+.container__871ba:has(.slider__41d94) {
+    height: 14px;
+    width: 38px !important;
+}
+
+.container__871ba.checked__6bdb0 .slider__41d94 {
+    margin-left: 3.5px;
 }
 .container__871ba:has(.slider__41d94) {
     height: 14px;
@@ -2038,7 +2043,13 @@ a>.iconWrapper_af9215[aria-label="Help"] {
     --profile-role-pill-background-color: #00000063;
     --profile-role-pill-border-color: #0b4cce00;
 }
-
+.reaction_fef95b {
+    border-radius: 0.5rem;
+    transition: none .1s ease !important;
+    transition-property: background-color,border-color;
+    background: black !important; 
+    border: 0.0625rem solid rgba(255, 255, 255, 0.507) !important;
+}
 
 
 
