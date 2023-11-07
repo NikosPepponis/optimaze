@@ -1802,6 +1802,22 @@ a>.iconWrapper_af9215[aria-label="Help"] {
 [class="defaultColor__77578 text-xs-medium__30cbe statusText_e0f90b"]{
     font-size: 0 !important;
 }
+/* κοινη χρηση οθονης */
+.sourceThumbnail__21c87 {
+    border-radius: 17px;
+    background-position: 50%;
+    background-color: var(--background-secondary-alt) !important;
+    transition: 300ms !important;
+}
+.tile__46960:hover .sourceThumbnail__21c87 {
+    -webkit-box-shadow: inset 0 0 0 2px var(--brand-experiment);
+    box-shadow: inset 0 0 0 2px white;
+    transition: 200ms !important;
+}
+.profileBadges__7a7cb, .badgeList-2aoHPw, .badgeList_ef4131{
+    background-color: var(--background-tertiary);
+    border-radius: 8px !important;
+}
 
 
 
