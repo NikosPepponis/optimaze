@@ -675,30 +675,7 @@ Table of Contents
 .marginBottom20__64605 {
     margin-bottom: 10px !important;
 }
-.container__871ba .slider__41d94 > svg > path, .container__871ba .slider__41d94 > rect {
-    fill: white !important;
-}
-.container__871ba .slider__41d94 {
-    margin-top: -2px;
-    margin-left: -4px;
-}
-.container__871ba.checked__6bdb0 .slider__41d94 > svg > path, .container__871ba.checked__6bdb0 .slider__41d94 > rect {
-    fill: white !important;
-}
-.container__871ba:has(.slider__41d94) {
-    height: 14px;
-    width: 38px !important;
-}
-.container__871ba.checked__6bdb0 .slider__41d94 {
-    margin-left: 3.5px;
-}
-.container__871ba:has(.slider__41d94) {
-    height: 14px;
-    width: 38px !important;
-}
-.container__871ba.checked__6bdb0:has(.slider__41d94) {
-    background-color: rgb(0, 86, 185) !important;
-}
+
 .labelDescriptor__6432e, .description__7af71{
     display: none;
 }
@@ -2054,7 +2031,17 @@ a>.iconWrapper_af9215[aria-label="Help"] {
     background: black !important; 
     border: 0.0625rem solid rgba(255, 255, 255, 0.507) !important;
 }
-
+/* PIN MESSAGE */
+.messagesPopoutWrap_b3b384{
+    border-radius: 20px 5px 20px 20px;
+    right: 10px;
+}
+.block__807da .pro_db62e1, .block__807da .tip__5f672, .tip__5f672{
+    font-size: 0;
+}
+.footer_a3029c{
+    height: 15px !important;
+} 
 
 
 
