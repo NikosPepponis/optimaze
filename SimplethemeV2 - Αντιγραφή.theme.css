@@ -1840,6 +1840,23 @@ a>.iconWrapper_af9215[aria-label="Help"] {
     background-color: var(--background-secondary-alt);
     box-shadow: 4px 4px 8px -5px rgb(0, 0, 0) inset, -3px -3px 10px 0px var(--background-tertiary)!important;
 }
+/* emoji recolor */
+.drawerSizingWrapper__30274 {
+    height: 170%;
+    bottom: 0px;
+    max-width: 120% !important;
+    width: 41% !important;
+    z-index: 1;
+}
+.inspector__993e1{
+    background-color: var(--background-tertiary);
+}
+.categoryList_f8c48f {
+    top: 58px;
+    width: 48px;
+    border-bottom-left-radius: var(--custom-emoji-picker-border-radius);
+    background-color: var(--background-tertiary);
+}
 
 
 
