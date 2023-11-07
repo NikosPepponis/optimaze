@@ -1818,6 +1818,28 @@ a>.iconWrapper_af9215[aria-label="Help"] {
     background-color: var(--background-tertiary);
     border-radius: 8px !important;
 }
+.card__7756d {
+    border-radius: 12px;
+    font-size: 26px;
+    line-height: 29px;
+    color: yellowgreen;
+    border: transparent !important;
+    border-bottom: thick double black !important;
+    background-color: var(--background-secondary);
+    font-family: "Caveat";
+}
+.qualitySettingsContainer__5cacd {
+    border: 1px solid var(--primary-800);
+    border-radius: 8px;
+    padding: 0 8px 8px;
+}
+.qualitySettingsContainer__5cacd {
+    border: 1px solid var(--background-secondary-alt);
+    border-radius: 12px;
+    padding: 0 8px 8px;
+    background-color: var(--background-secondary-alt);
+    box-shadow: 4px 4px 8px -5px rgb(0, 0, 0) inset, -3px -3px 10px 0px var(--background-tertiary)!important;
+}
 
 
 
