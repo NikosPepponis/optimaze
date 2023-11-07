@@ -2270,3 +2270,28 @@ rect[fill="#34008f"] {
     color:rgb(255, 255, 255);
     font-weight: 700;
 }
+.message__80c10,
+.mentioned__58017 {
+    border-radius: 8px !important;
+}
+.mentioned__58017:before {
+    background: transparent !important;
+    transition: 250ms;
+}
+.mentioned__58017 {
+    background: black !important;
+    transition: 250ms;
+    background-image: -webkit-linear-gradient(-43deg, #4b508071 43%, #7a72b3 100%) !important;
+}
+.mentioned__58017:hover {
+    background: black !important;
+    background-image: -webkit-linear-gradient(-43deg, #4b508071 43%, #7a72b3 100%) !important;
+    transition: 250ms;
+}
+.message__1a4b9 strong, #app-mount .wrapper_f46140 {
+    background-color: rgb(16, 104, 99) !important;
+    color: white !important;
+    border-radius: 4px;
+    transition: 200ms;
+    font-family: "yellowtail";
+}
