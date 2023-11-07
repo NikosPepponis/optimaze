@@ -1472,7 +1472,6 @@ a>.iconWrapper_af9215[aria-label="Help"] {
 .colorable_c84c4c.primaryDark__6b700{
     box-shadow:inset 0 0 10px 1px rgba(255, 211, 211, 0.514), 0 0 10px -2px rgba(255, 211, 211, 0.514) !important;
 }
-
 /* 5.1 Server channel */
 .emptyChannelIcon__1a1ba.locked_e10853 {
     background-image: url(https://i.postimg.cc/s2Pc9zHg/ezgif-com-crop.gif) !important;
@@ -1863,25 +1862,7 @@ a>.iconWrapper_af9215[aria-label="Help"] {
     border-bottom-left-radius: var(--custom-emoji-picker-border-radius);
     background-color: var(--background-tertiary);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                                /* END */
 
 /*all in one*/
 .searchBar__8f956,.inner__178b2{
